@@ -1,0 +1,9 @@
+numba==0.60.0
+pulp==3.2.1
+tigramite==5.2.7.0
+tqdm==4.67.1
+numpy==2.0.2
+scipy==1.13.1
+matplotlib==3.9.4
+pandas==2.2.3
+scikit-learn==1.6.1
