@@ -59,8 +59,6 @@ Please note that the SWaT and WADI datasets aren't included here, as their distr
 
 ## Baselines
 
-To generate the ground truth for the Porto and Chengdu dataset, run the following command:
-
 |  Dimension   |                          Algorithm                           | Scenario |          Type          |
 | :----------: | :----------------------------------------------------------: | :------: | :--------------------: |
 |  Univariate  |                             EWMA                             |  online  |       smoothing        |
